@@ -1,4 +1,4 @@
 Coding Interview
 ===
 
-An implementation of He's Coding Interview.
+Codes of He's Coding Interview.
