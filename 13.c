@@ -58,9 +58,9 @@ int main(int argc, char* argv[])
 	p2->value = 3;
 	p2->next = NULL;
 
-	//delete_node(&head, p1);	
+	delete_node(&head, p1);	
 	//delete_node(&head, p2);	
-	delete_node(&head, head);	
+	//delete_node(&head, head);	
 	printf("delete_node p1: ");
 	while (head != NULL)
 	{
