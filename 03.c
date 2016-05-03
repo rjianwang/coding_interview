@@ -30,6 +30,6 @@ int find(int* matrix, int rows, int cols, int number)
 int main(int argc, char* argv[])
 {
 	int a[3][3] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-	printf("%d\n", find(*a, 3, 3, 3));
+	printf("%d\n", find(*a, 3, 3, 5));
 	return 0;
 }
